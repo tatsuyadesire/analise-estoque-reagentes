@@ -1,0 +1,146 @@
+﻿movimentacao_id;data_hora;tipo_movimentacao;reagente_id;reagente;formula;lote_id;quantidade;unidade;projeto_id;projeto;usuario_id;usuario;motivo
+M0001;2026-09-01 10:20:00;descarte;R003;Etanol;C2H5OH;R003-L01;0.33;L;;;U001;Pesquisador 01;Contaminação
+M0002;2026-09-01 11:10:00;retirada;R011;Acetato de etila;C4H8O2;R011-L02;0.805;L;P001;Caracterização de materiais;U002;Pesquisador 02;Execução de procedimento
+M0003;2026-09-01 11:20:00;devolução;R010;Metanol;CH3OH;R010-L01;0.102;L;P004;Tratamento de efluentes;U002;Pesquisador 02;Devolução de material não utilizado
+M0004;2026-09-01 13:00:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L01;0.301;kg;P003;Análises físico-químicas;U001;Pesquisador 01;Execução de procedimento
+M0005;2026-09-01 14:40:00;entrada;R009;Peróxido de hidrogênio;H2O2;R009-L02;0.999;L;;;U001;Pesquisador 01;Recebimento de compra
+M0006;2026-09-01 14:50:00;retirada;R005;Ácido sulfúrico;H2SO4;R005-L02;1.134;L;P001;Caracterização de materiais;U001;Pesquisador 01;Execução de procedimento
+M0007;2026-09-01 15:30:00;entrada;R005;Ácido sulfúrico;H2SO4;R005-L02;0.559;L;;;U005;Bolsista 02;Transferência recebida
+M0008;2026-09-02 08:15:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L01;0.42;kg;P001;Caracterização de materiais;U001;Pesquisador 01;Execução de procedimento
+M0009;2026-09-02 10:40:00;retirada;R004;Acetona;C3H6O;R004-L01;0.176;L;P005;Pesquisa aplicada;U005;Bolsista 02;Uso em experimento
+M0010;2026-09-02 10:50:00;retirada;R003;Etanol;C2H5OH;R003-L02;0.052;L;P001;Caracterização de materiais;U002;Pesquisador 02;Análise laboratorial
+M0011;2026-09-02 11:30:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L01;0.234;kg;P005;Pesquisa aplicada;U005;Bolsista 02;Análise laboratorial
+M0012;2026-09-02 11:50:00;retirada;R007;Nitrato de prata;AgNO3;R007-L01;2.438;g;P002;Síntese e catálise;U004;Bolsista 01;Preparação de solução
+M0013;2026-09-02 14:45:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.364;kg;P003;Análises físico-químicas;U004;Bolsista 01;Análise laboratorial
+M0014;2026-09-04 11:45:00;entrada;R009;Peróxido de hidrogênio;H2O2;R009-L02;1.14;L;;;U004;Bolsista 01;Transferência recebida
+M0015;2026-09-04 13:00:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L01;0.201;kg;P002;Síntese e catálise;U003;Técnico de laboratório;Uso em experimento
+M0016;2026-09-04 16:00:00;retirada;R003;Etanol;C2H5OH;R003-L01;1.119;L;P003;Análises físico-químicas;U001;Pesquisador 01;Análise laboratorial
+M0017;2026-09-04 16:50:00;retirada;R009;Peróxido de hidrogênio;H2O2;R009-L02;0.305;L;P001;Caracterização de materiais;U004;Bolsista 01;Análise laboratorial
+M0018;2026-09-05 08:00:00;retirada;R008;Sulfato de cobre;CuSO4;R008-L01;0.255;kg;P005;Pesquisa aplicada;U002;Pesquisador 02;Uso em experimento
+M0019;2026-09-05 08:20:00;retirada;R001;Ácido clorídrico;HCl;R001-L02;0.961;L;P004;Tratamento de efluentes;U005;Bolsista 02;Preparação de solução
+M0020;2026-09-05 09:15:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.141;kg;P003;Análises físico-químicas;U001;Pesquisador 01;Preparação de solução
+M0021;2026-09-05 13:45:00;descarte;R010;Metanol;CH3OH;R010-L02;0.642;L;;;U005;Bolsista 02;Validade expirada
+M0022;2026-09-05 15:40:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L01;0.57;kg;P004;Tratamento de efluentes;U001;Pesquisador 01;Análise laboratorial
+M0023;2026-09-05 15:50:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.255;kg;P005;Pesquisa aplicada;U001;Pesquisador 01;Execução de procedimento
+M0024;2026-09-06 10:50:00;retirada;R003;Etanol;C2H5OH;R003-L02;0.584;L;P003;Análises físico-químicas;U002;Pesquisador 02;Análise laboratorial
+M0025;2026-09-06 11:50:00;retirada;R010;Metanol;CH3OH;R010-L02;0.69;L;P004;Tratamento de efluentes;U004;Bolsista 01;Análise laboratorial
+M0026;2026-09-06 13:30:00;retirada;R010;Metanol;CH3OH;R010-L01;0.358;L;P004;Tratamento de efluentes;U003;Técnico de laboratório;Uso em experimento
+M0027;2026-09-06 14:30:00;retirada;R004;Acetona;C3H6O;R004-L02;0.213;L;P005;Pesquisa aplicada;U001;Pesquisador 01;Preparação de solução
+M0028;2026-09-06 16:00:00;devolução;R003;Etanol;C2H5OH;R003-L01;0.086;L;P005;Pesquisa aplicada;U004;Bolsista 01;Devolução de material não utilizado
+M0029;2026-09-07 08:30:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.374;kg;P005;Pesquisa aplicada;U003;Técnico de laboratório;Uso em experimento
+M0030;2026-09-07 09:15:00;entrada;R010;Metanol;CH3OH;R010-L02;1.099;L;;;U002;Pesquisador 02;Reposição de estoque
+M0031;2026-09-07 11:15:00;retirada;R006;Cloreto de sódio;NaCl;R006-L01;0.34;kg;P004;Tratamento de efluentes;U004;Bolsista 01;Uso em experimento
+M0032;2026-09-07 11:15:00;entrada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.322;kg;;;U001;Pesquisador 01;Reposição de estoque
+M0033;2026-09-07 11:30:00;descarte;R012;Carbonato de sódio;Na2CO3;R012-L02;0.659;kg;;;U002;Pesquisador 02;Contaminação
+M0034;2026-09-08 08:00:00;retirada;R003;Etanol;C2H5OH;R003-L02;0.258;L;P005;Pesquisa aplicada;U005;Bolsista 02;Análise laboratorial
+M0035;2026-09-08 09:20:00;devolução;R004;Acetona;C3H6O;R004-L02;0.154;L;P001;Caracterização de materiais;U002;Pesquisador 02;Devolução de material não utilizado
+M0036;2026-09-08 09:40:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L02;0.351;kg;P002;Síntese e catálise;U003;Técnico de laboratório;Uso em experimento
+M0037;2026-09-08 13:15:00;descarte;R010;Metanol;CH3OH;R010-L01;0.155;L;;;U002;Pesquisador 02;Material sem condições de uso
+M0038;2026-09-08 13:30:00;entrada;R011;Acetato de etila;C4H8O2;R011-L02;1.15;L;;;U004;Bolsista 01;Reposição de estoque
+M0039;2026-09-08 14:30:00;devolução;R002;Hidróxido de sódio;NaOH;R002-L02;0.64;kg;P005;Pesquisa aplicada;U003;Técnico de laboratório;Devolução de material não utilizado
+M0040;2026-09-08 14:40:00;retirada;R006;Cloreto de sódio;NaCl;R006-L01;0.567;kg;P002;Síntese e catálise;U003;Técnico de laboratório;Preparação de solução
+M0041;2026-09-08 16:45:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L02;0.71;kg;P004;Tratamento de efluentes;U003;Técnico de laboratório;Execução de procedimento
+M0042;2026-09-09 08:50:00;descarte;R005;Ácido sulfúrico;H2SO4;R005-L01;1.055;L;;;U001;Pesquisador 01;Validade expirada
+M0043;2026-09-09 13:40:00;retirada;R001;Ácido clorídrico;HCl;R001-L02;0.391;L;P003;Análises físico-químicas;U002;Pesquisador 02;Execução de procedimento
+M0044;2026-09-09 13:45:00;retirada;R008;Sulfato de cobre;CuSO4;R008-L01;0.689;kg;P005;Pesquisa aplicada;U004;Bolsista 01;Uso em experimento
+M0045;2026-09-09 14:45:00;retirada;R010;Metanol;CH3OH;R010-L02;1.072;L;P005;Pesquisa aplicada;U004;Bolsista 01;Uso em experimento
+M0046;2026-09-09 16:45:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.724;kg;P003;Análises físico-químicas;U001;Pesquisador 01;Uso em experimento
+M0047;2026-09-10 11:15:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L01;0.39;kg;P003;Análises físico-químicas;U004;Bolsista 01;Execução de procedimento
+M0048;2026-09-10 11:20:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.395;kg;P001;Caracterização de materiais;U003;Técnico de laboratório;Execução de procedimento
+M0049;2026-09-10 11:50:00;descarte;R008;Sulfato de cobre;CuSO4;R008-L01;0.316;kg;;;U004;Bolsista 01;Validade expirada
+M0050;2026-09-10 13:10:00;retirada;R007;Nitrato de prata;AgNO3;R007-L01;2.777;g;P001;Caracterização de materiais;U001;Pesquisador 01;Execução de procedimento
+M0051;2026-09-10 13:50:00;descarte;R004;Acetona;C3H6O;R004-L01;0.942;L;;;U004;Bolsista 01;Validade expirada
+M0052;2026-09-11 08:45:00;descarte;R004;Acetona;C3H6O;R004-L02;1.081;L;;;U002;Pesquisador 02;Embalagem comprometida
+M0053;2026-09-11 08:50:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.185;kg;P005;Pesquisa aplicada;U005;Bolsista 02;Análise laboratorial
+M0054;2026-09-11 10:10:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L01;0.724;kg;P004;Tratamento de efluentes;U004;Bolsista 01;Execução de procedimento
+M0055;2026-09-11 10:50:00;entrada;R010;Metanol;CH3OH;R010-L02;0.208;L;;;U003;Técnico de laboratório;Transferência recebida
+M0056;2026-09-11 11:15:00;devolução;R001;Ácido clorídrico;HCl;R001-L01;1.053;L;P004;Tratamento de efluentes;U005;Bolsista 02;Devolução de material não utilizado
+M0057;2026-09-11 15:10:00;entrada;R011;Acetato de etila;C4H8O2;R011-L02;0.099;L;;;U001;Pesquisador 01;Recebimento de compra
+M0058;2026-09-12 10:00:00;retirada;R010;Metanol;CH3OH;R010-L02;0.174;L;P004;Tratamento de efluentes;U003;Técnico de laboratório;Execução de procedimento
+M0059;2026-09-12 10:00:00;retirada;R004;Acetona;C3H6O;R004-L02;0.639;L;P002;Síntese e catálise;U001;Pesquisador 01;Análise laboratorial
+M0060;2026-09-12 10:00:00;retirada;R001;Ácido clorídrico;HCl;R001-L02;0.813;L;P005;Pesquisa aplicada;U003;Técnico de laboratório;Execução de procedimento
+M0061;2026-09-12 11:15:00;retirada;R010;Metanol;CH3OH;R010-L01;1.064;L;P005;Pesquisa aplicada;U005;Bolsista 02;Preparação de solução
+M0062;2026-09-12 11:30:00;entrada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.606;kg;;;U001;Pesquisador 01;Transferência recebida
+M0063;2026-09-12 11:45:00;retirada;R009;Peróxido de hidrogênio;H2O2;R009-L02;0.326;L;P001;Caracterização de materiais;U005;Bolsista 02;Execução de procedimento
+M0064;2026-09-12 11:50:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.111;kg;P001;Caracterização de materiais;U002;Pesquisador 02;Preparação de solução
+M0065;2026-09-12 13:10:00;retirada;R005;Ácido sulfúrico;H2SO4;R005-L02;0.288;L;P005;Pesquisa aplicada;U004;Bolsista 01;Preparação de solução
+M0066;2026-09-13 09:50:00;retirada;R008;Sulfato de cobre;CuSO4;R008-L02;0.65;kg;P004;Tratamento de efluentes;U002;Pesquisador 02;Execução de procedimento
+M0067;2026-09-13 10:15:00;retirada;R010;Metanol;CH3OH;R010-L02;0.421;L;P003;Análises físico-químicas;U004;Bolsista 01;Preparação de solução
+M0068;2026-09-13 10:20:00;retirada;R003;Etanol;C2H5OH;R003-L02;0.973;L;P004;Tratamento de efluentes;U004;Bolsista 01;Execução de procedimento
+M0069;2026-09-13 11:10:00;retirada;R005;Ácido sulfúrico;H2SO4;R005-L01;0.304;L;P002;Síntese e catálise;U001;Pesquisador 01;Uso em experimento
+M0070;2026-09-13 11:30:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.296;kg;P002;Síntese e catálise;U004;Bolsista 01;Preparação de solução
+M0071;2026-09-13 13:50:00;devolução;R002;Hidróxido de sódio;NaOH;R002-L01;0.073;kg;P001;Caracterização de materiais;U003;Técnico de laboratório;Devolução de material não utilizado
+M0072;2026-09-13 15:50:00;entrada;R004;Acetona;C3H6O;R004-L02;0.293;L;;;U001;Pesquisador 01;Reposição de estoque
+M0073;2026-09-14 09:45:00;retirada;R006;Cloreto de sódio;NaCl;R006-L01;0.536;kg;P002;Síntese e catálise;U005;Bolsista 02;Uso em experimento
+M0074;2026-09-14 14:15:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.129;kg;P003;Análises físico-químicas;U001;Pesquisador 01;Execução de procedimento
+M0075;2026-09-14 14:40:00;entrada;R003;Etanol;C2H5OH;R003-L01;0.542;L;;;U003;Técnico de laboratório;Recebimento de compra
+M0076;2026-09-15 09:50:00;devolução;R009;Peróxido de hidrogênio;H2O2;R009-L01;0.567;L;P003;Análises físico-químicas;U002;Pesquisador 02;Devolução de material não utilizado
+M0077;2026-09-15 11:30:00;devolução;R004;Acetona;C3H6O;R004-L02;0.055;L;P004;Tratamento de efluentes;U003;Técnico de laboratório;Devolução de material não utilizado
+M0078;2026-09-15 14:00:00;retirada;R010;Metanol;CH3OH;R010-L02;1.108;L;P005;Pesquisa aplicada;U004;Bolsista 01;Uso em experimento
+M0079;2026-09-15 14:50:00;retirada;R005;Ácido sulfúrico;H2SO4;R005-L02;0.96;L;P002;Síntese e catálise;U005;Bolsista 02;Uso em experimento
+M0080;2026-09-16 13:40:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L02;0.696;kg;P005;Pesquisa aplicada;U004;Bolsista 01;Preparação de solução
+M0081;2026-09-16 14:00:00;devolução;R006;Cloreto de sódio;NaCl;R006-L02;0.668;kg;P002;Síntese e catálise;U001;Pesquisador 01;Devolução de material não utilizado
+M0082;2026-09-17 10:40:00;retirada;R006;Cloreto de sódio;NaCl;R006-L01;0.064;kg;P005;Pesquisa aplicada;U001;Pesquisador 01;Análise laboratorial
+M0083;2026-09-17 11:40:00;retirada;R010;Metanol;CH3OH;R010-L02;1.114;L;P001;Caracterização de materiais;U003;Técnico de laboratório;Análise laboratorial
+M0084;2026-09-17 15:45:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;0.273;L;P002;Síntese e catálise;U003;Técnico de laboratório;Execução de procedimento
+M0085;2026-09-18 08:45:00;retirada;R004;Acetona;C3H6O;R004-L01;0.156;L;P001;Caracterização de materiais;U001;Pesquisador 01;Uso em experimento
+M0086;2026-09-18 09:30:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;0.345;L;P002;Síntese e catálise;U005;Bolsista 02;Preparação de solução
+M0087;2026-09-18 11:50:00;retirada;R007;Nitrato de prata;AgNO3;R007-L02;5.517;g;P002;Síntese e catálise;U005;Bolsista 02;Análise laboratorial
+M0088;2026-09-18 14:40:00;retirada;R009;Peróxido de hidrogênio;H2O2;R009-L02;0.34;L;P002;Síntese e catálise;U005;Bolsista 02;Preparação de solução
+M0089;2026-09-18 15:45:00;retirada;R009;Peróxido de hidrogênio;H2O2;R009-L02;0.855;L;P003;Análises físico-químicas;U004;Bolsista 01;Preparação de solução
+M0090;2026-09-18 16:00:00;retirada;R003;Etanol;C2H5OH;R003-L02;0.965;L;P002;Síntese e catálise;U002;Pesquisador 02;Uso em experimento
+M0091;2026-09-18 16:40:00;retirada;R008;Sulfato de cobre;CuSO4;R008-L01;0.567;kg;P001;Caracterização de materiais;U004;Bolsista 01;Preparação de solução
+M0092;2026-09-19 10:30:00;entrada;R002;Hidróxido de sódio;NaOH;R002-L01;0.684;kg;;;U003;Técnico de laboratório;Transferência recebida
+M0093;2026-09-20 13:10:00;entrada;R003;Etanol;C2H5OH;R003-L02;0.521;L;;;U003;Técnico de laboratório;Transferência recebida
+M0094;2026-09-20 13:40:00;entrada;R003;Etanol;C2H5OH;R003-L01;0.765;L;;;U001;Pesquisador 01;Recebimento de compra
+M0095;2026-09-20 15:30:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L02;0.279;kg;P004;Tratamento de efluentes;U002;Pesquisador 02;Execução de procedimento
+M0096;2026-09-20 15:45:00;entrada;R012;Carbonato de sódio;Na2CO3;R012-L02;0.284;kg;;;U001;Pesquisador 01;Reposição de estoque
+M0097;2026-09-20 16:15:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L01;0.576;kg;P001;Caracterização de materiais;U002;Pesquisador 02;Preparação de solução
+M0098;2026-09-21 08:15:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;0.89;L;P003;Análises físico-químicas;U005;Bolsista 02;Análise laboratorial
+M0099;2026-09-21 11:45:00;retirada;R005;Ácido sulfúrico;H2SO4;R005-L01;0.331;L;P002;Síntese e catálise;U005;Bolsista 02;Execução de procedimento
+M0100;2026-09-21 11:50:00;descarte;R008;Sulfato de cobre;CuSO4;R008-L01;0.618;kg;;;U001;Pesquisador 01;Validade expirada
+M0101;2026-09-21 15:45:00;descarte;R006;Cloreto de sódio;NaCl;R006-L02;0.179;kg;;;U003;Técnico de laboratório;Embalagem comprometida
+M0102;2026-09-22 13:40:00;entrada;R011;Acetato de etila;C4H8O2;R011-L01;0.576;L;;;U004;Bolsista 01;Recebimento de compra
+M0103;2026-09-22 14:00:00;retirada;R002;Hidróxido de sódio;NaOH;R002-L02;0.753;kg;P001;Caracterização de materiais;U003;Técnico de laboratório;Preparação de solução
+M0104;2026-09-22 15:40:00;devolução;R003;Etanol;C2H5OH;R003-L01;0.413;L;P004;Tratamento de efluentes;U005;Bolsista 02;Devolução de material não utilizado
+M0105;2026-09-22 15:40:00;retirada;R012;Carbonato de sódio;Na2CO3;R012-L01;0.15;kg;P003;Análises físico-químicas;U002;Pesquisador 02;Preparação de solução
+M0106;2026-09-23 10:30:00;descarte;R004;Acetona;C3H6O;R004-L01;0.604;L;;;U001;Pesquisador 01;Validade expirada
+M0107;2026-09-23 11:20:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.554;kg;P003;Análises físico-químicas;U001;Pesquisador 01;Preparação de solução
+M0108;2026-09-23 11:40:00;descarte;R011;Acetato de etila;C4H8O2;R011-L02;0.4;L;;;U003;Técnico de laboratório;Embalagem comprometida
+M0109;2026-09-23 13:20:00;retirada;R004;Acetona;C3H6O;R004-L02;0.469;L;P004;Tratamento de efluentes;U001;Pesquisador 01;Preparação de solução
+M0110;2026-09-23 14:00:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.396;kg;P002;Síntese e catálise;U004;Bolsista 01;Análise laboratorial
+M0111;2026-09-23 14:50:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;0.23;L;P003;Análises físico-químicas;U003;Técnico de laboratório;Preparação de solução
+M0112;2026-09-24 09:20:00;entrada;R011;Acetato de etila;C4H8O2;R011-L01;0.344;L;;;U004;Bolsista 01;Recebimento de compra
+M0113;2026-09-24 10:20:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;0.921;L;P003;Análises físico-químicas;U005;Bolsista 02;Análise laboratorial
+M0114;2026-09-24 10:40:00;retirada;R003;Etanol;C2H5OH;R003-L02;1.233;L;P003;Análises físico-químicas;U002;Pesquisador 02;Análise laboratorial
+M0115;2026-09-24 10:45:00;entrada;R003;Etanol;C2H5OH;R003-L01;0.413;L;;;U001;Pesquisador 01;Recebimento de compra
+M0116;2026-09-24 15:50:00;retirada;R011;Acetato de etila;C4H8O2;R011-L02;0.762;L;P002;Síntese e catálise;U002;Pesquisador 02;Preparação de solução
+M0117;2026-09-24 16:30:00;retirada;R003;Etanol;C2H5OH;R003-L02;0.643;L;P002;Síntese e catálise;U005;Bolsista 02;Execução de procedimento
+M0118;2026-09-25 09:50:00;descarte;R010;Metanol;CH3OH;R010-L02;0.148;L;;;U003;Técnico de laboratório;Validade expirada
+M0119;2026-09-25 13:10:00;descarte;R003;Etanol;C2H5OH;R003-L01;0.537;L;;;U004;Bolsista 01;Embalagem comprometida
+M0120;2026-09-25 13:15:00;retirada;R008;Sulfato de cobre;CuSO4;R008-L02;0.699;kg;P003;Análises físico-químicas;U001;Pesquisador 01;Execução de procedimento
+M0121;2026-09-25 15:45:00;descarte;R006;Cloreto de sódio;NaCl;R006-L02;0.777;kg;;;U005;Bolsista 02;Validade expirada
+M0122;2026-09-25 16:00:00;descarte;R003;Etanol;C2H5OH;R003-L02;0.969;L;;;U001;Pesquisador 01;Validade expirada
+M0123;2026-09-25 16:50:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.058;kg;P005;Pesquisa aplicada;U004;Bolsista 01;Uso em experimento
+M0124;2026-09-26 08:20:00;retirada;R005;Ácido sulfúrico;H2SO4;R005-L01;0.28;L;P002;Síntese e catálise;U004;Bolsista 01;Preparação de solução
+M0125;2026-09-26 09:00:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.716;kg;P004;Tratamento de efluentes;U003;Técnico de laboratório;Uso em experimento
+M0126;2026-09-26 13:15:00;devolução;R004;Acetona;C3H6O;R004-L02;0.96;L;P003;Análises físico-químicas;U003;Técnico de laboratório;Devolução de material não utilizado
+M0127;2026-09-27 08:00:00;retirada;R010;Metanol;CH3OH;R010-L02;0.62;L;P003;Análises físico-químicas;U005;Bolsista 02;Uso em experimento
+M0128;2026-09-27 08:10:00;retirada;R001;Ácido clorídrico;HCl;R001-L02;0.771;L;P001;Caracterização de materiais;U005;Bolsista 02;Análise laboratorial
+M0129;2026-09-27 13:10:00;descarte;R009;Peróxido de hidrogênio;H2O2;R009-L01;0.789;L;;;U001;Pesquisador 01;Material sem condições de uso
+M0130;2026-09-27 13:40:00;retirada;R009;Peróxido de hidrogênio;H2O2;R009-L02;1.239;L;P002;Síntese e catálise;U002;Pesquisador 02;Uso em experimento
+M0131;2026-09-27 13:45:00;descarte;R002;Hidróxido de sódio;NaOH;R002-L01;0.265;kg;;;U003;Técnico de laboratório;Embalagem comprometida
+M0132;2026-09-27 14:45:00;descarte;R006;Cloreto de sódio;NaCl;R006-L02;0.389;kg;;;U001;Pesquisador 01;Contaminação
+M0133;2026-09-27 16:10:00;retirada;R001;Ácido clorídrico;HCl;R001-L02;0.441;L;P005;Pesquisa aplicada;U002;Pesquisador 02;Preparação de solução
+M0134;2026-09-28 09:45:00;retirada;R006;Cloreto de sódio;NaCl;R006-L02;0.209;kg;P001;Caracterização de materiais;U003;Técnico de laboratório;Uso em experimento
+M0135;2026-09-28 10:00:00;retirada;R003;Etanol;C2H5OH;R003-L01;1.017;L;P005;Pesquisa aplicada;U004;Bolsista 01;Preparação de solução
+M0136;2026-09-28 11:10:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;0.2;L;P002;Síntese e catálise;U003;Técnico de laboratório;Preparação de solução
+M0137;2026-09-29 11:30:00;retirada;R011;Acetato de etila;C4H8O2;R011-L02;0.181;L;P005;Pesquisa aplicada;U005;Bolsista 02;Uso em experimento
+M0138;2026-09-29 11:50:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;1.069;L;P004;Tratamento de efluentes;U001;Pesquisador 01;Execução de procedimento
+M0139;2026-09-29 13:15:00;retirada;R001;Ácido clorídrico;HCl;R001-L01;0.754;L;P002;Síntese e catálise;U002;Pesquisador 02;Preparação de solução
+M0140;2026-09-29 15:00:00;retirada;R008;Sulfato de cobre;CuSO4;R008-L01;0.211;kg;P002;Síntese e catálise;U005;Bolsista 02;Execução de procedimento
+M0141;2026-09-29 15:15:00;devolução;R001;Ácido clorídrico;HCl;R001-L02;0.788;L;P003;Análises físico-químicas;U001;Pesquisador 01;Devolução de material não utilizado
+M0142;2026-09-29 16:30:00;retirada;R009;Peróxido de hidrogênio;H2O2;R009-L01;0.066;L;P002;Síntese e catálise;U001;Pesquisador 01;Preparação de solução
+M0143;2026-09-30 08:45:00;retirada;R005;Ácido sulfúrico;H2SO4;R005-L02;0.533;L;P001;Caracterização de materiais;U001;Pesquisador 01;Preparação de solução
+M0144;2026-09-30 11:15:00;entrada;R009;Peróxido de hidrogênio;H2O2;R009-L01;1.232;L;;;U002;Pesquisador 02;Recebimento de compra
+M0145;2026-09-30 15:00:00;descarte;R003;Etanol;C2H5OH;R003-L01;0.578;L;;;U005;Bolsista 02;Material sem condições de uso
