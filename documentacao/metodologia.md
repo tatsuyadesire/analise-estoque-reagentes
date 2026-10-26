@@ -66,22 +66,12 @@ Lotes com saldo final negativo estimado: **2**.
 - R006-L02 (Cloreto de sódio): saldo inicial 1.478 kg; variação -4.469; saldo final estimado -2.991 kg
 - R008-L02 (Sulfato de cobre): saldo inicial 1.104 kg; variação -1.349; saldo final estimado -0.245 kg
 
-Um saldo negativo sinaliza uma inconsistência a investigar na simulação, por exemplo: quantidade retirada acima do saldo disponível. Não deve ser interpretado como uma ocorrência real. A simulação não foi calibrada para garantir balanço físico válido em todos os lotes.
-
-## Discussão dos resultados
-
-A contagem de operações mostra quais tipos de evento aparecem com maior frequência, mas não mede diretamente volume consumido. Para consumo por reagente, as quantidades devem ser comparadas dentro da mesma unidade. Não se devem somar litros, quilogramas e gramas num único total, pois isso não tem interpretação física coerente.
-
-A análise por projeto permite observar como as retiradas estão distribuídas em termos de frequência. A análise de descartes ajuda a identificar motivos registrados, mas não demonstra, por si só, que o descarte era evitável. Da mesma forma, a proximidade de vencimento é um sinal para acompanhamento, não prova de perda.
-
 
 ## Limitações e recomendações
 
 - Retirada registrada não é necessariamente igual a consumo efetivo.
 - Quantidades devem ser analisadas por unidade e por reagente.
 - Um mês de dados não é suficiente para inferir sazonalidade ou tendência duradoura.
-- Antes de usar dados reais, validar regras de negócio, saldos iniciais, unidades, lotes e motivos com os responsáveis pelo laboratório.
-- Para preservar a confidencialidade, dados reais de pesquisa não devem ser publicados sem autorização.
 
 ## Como executar
 
